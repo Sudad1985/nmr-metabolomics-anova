@@ -22,7 +22,3 @@ Rscript R/run_aov_anova.R            # writes results/aov_anova_results.csv
 
 ## Stack
 R, limma, dplyr, broom, ggplot2
-
-## Related publication (preprint)
-If your internship supported a medRxiv preprint, cite it here with a DOI.  
-*I contributed statistical analysis and R code but I am not listed as an author.*
